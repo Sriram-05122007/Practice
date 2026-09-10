@@ -8,3 +8,8 @@ Father:51
 Mother:43
 Me:18
 Sister:14
+Blood group:
+Father:A+
+Mother:O+
+Me:A+
+Sister:O+
