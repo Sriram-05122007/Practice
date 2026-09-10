@@ -13,3 +13,8 @@ Father:A+
 Mother:O+
 Me:A+
 Sister:O+
+Current Work:
+Mother:Tailor
+Father:R.M.P Doctor
+Me:Engineering Student
+Sister:SSC 10th standard
