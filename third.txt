@@ -3,3 +3,8 @@ Father:S.Thrivikrama chari
 Mother:S.Supraja
 Me:S.Sriram
 Sister:S.Durvika
+current age:
+Father:51
+Mother:43
+Me:18
+Sister:14
